@@ -1,0 +1,1 @@
+# C-Gauss-Elimination-Method-for-Solving-Linear-Equations
